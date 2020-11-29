@@ -1,0 +1,8 @@
+*/*/setup.py
+*/*/*/setup.py
+./week1/Video/setup.py
+*/*/*/venv
+*/*/*/node_modules
+*/*/*/__pycache__
+*/*/__pycache__
+
